@@ -6,7 +6,6 @@
 **Author:** Demet Bulut
 
 This project demonstrates:
-- **Node.js single-page application**
 - **CI/CD integration using GitHub Actions**
 - Deployment via **GitHub Pages**
 
